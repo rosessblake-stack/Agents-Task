@@ -7,5 +7,7 @@ Errores y reglas aprendidas. Los fallos los anota el Revisor; el agente Leccione
 - (2026-10-12, previa de Blake) Si falta un dato de contexto de una alumna, la auditoría de precios se entrega en **dos escenarios**, no con una cifra única.
 - (2026-10-12, previa de Blake) El archivo de leads exportado tiene fechas inconsistentes y posibles truncados; si la búsqueda falla, pedir a Blake los datos en bruto.
 
+- (2026-10-12, corrección de Blake) El filmmaker del pack de 3 días está los 3 días, no solo el Día 3. Hecho comprobado (lo dijo Blake). El documento de contexto inicial lo tenía mal; ante dudas de este tipo, preguntar.
+
 ## Fallos registrados
 _(vacío)_

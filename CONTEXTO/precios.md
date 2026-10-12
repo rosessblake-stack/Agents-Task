@@ -6,7 +6,7 @@ Regla de oro: **el precio es fijo; no se baja nunca.** La flexibilidad es estruc
 |---|---|---|
 | Formación presencial 1 a 1, **1 día** (España) | 1.000 € | Jornada de 8 h |
 | Formación presencial 1 a 1, **2 días** (España) | 2.000 € | Acumulativo: incluye día 1 + 2 |
-| Formación presencial 1 a 1, **3 días** (España) | 2.500 € | Acumulativo: incluye 1 + 2 + 3. **Recomendado por defecto.** Día 3 con filmmaker |
+| Formación presencial 1 a 1, **3 días** (España) | 2.500 € | Acumulativo: incluye 1 + 2 + 3. **Recomendado por defecto.** Filmmaker los 3 días |
 | Formación presencial, Miami | 2.000 $ (1 día) | Resto de formatos [COMPLETAR] |
 | Curso online | 497 € | 30–40 clases |
 | Asesoría 1:1 (1 hora) | 100 € | [VERIFICAR] (dato de un caso reciente) |

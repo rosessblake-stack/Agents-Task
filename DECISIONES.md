@@ -11,3 +11,4 @@ Lo que Blake ha decidido y por qué, para no volver a preguntárselo. Formato: f
 - (previa) Nunca se bajan precios; flexibilidad solo estructural · Blake.
 - (previa) Split Ready desprioritizada · Blake.
 - (previa) Contexto no duplicado: los datos de leads y clientela VIP no se guardan en el repo · Blake.
+- 2026-10-12 · En la formación de 3 días el filmmaker viene los 3 días, no solo el Día 3 · corrección de Blake.

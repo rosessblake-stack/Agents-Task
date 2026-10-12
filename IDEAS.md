@@ -9,7 +9,7 @@ Banco de ideas. Veredictos: **descartar · aparcar · preguntar · adelante · s
 | I-003 | 2026-10-12 | Media kit | sin evaluar | Pendiente de Marketing |
 | I-004 | 2026-10-12 | Extender fórmula de precios (Digital Twin) a formaciones, asesorías y curso | sin evaluar | |
 | I-005 | 2026-10-12 | Sistema de reservas y ManyChat para Setter | sin evaluar | Espera cuestionario de arranque de Blake |
-| I-006 | 2026-10-12 | Esquema fijo de qué grabar en cada formación | sin evaluar | |
+| I-006 | 2026-10-12 | Esquema fijo de qué grabar en cada formación | adelante | Encaje 5, impacto 4, esfuerzo 4, dependencias 3, no-duplicado 5. Importancia media, dificultad baja. Una formación al mes y filmmaker los 3 días del pack de 3 días: un esquema reutilizable ahorra preparación y evita perder material. Estructura por días ya definida en negocio.md. Dependencia blanda: checklist de grabación de Blake (pendiente, ver SKILLS.md); se planifica sin ella y se ajusta al llegar. Plan: T-001 |
 | I-007 | 2026-10-12 | Revisar preguntas del lead scoring contra el Typeform nuevo | sin evaluar | |
 | I-008 | 2026-10-12 | Arreglos de la web (auditoría Kajabi) y confirmar plataforma | sin evaluar | |
 | I-009 | 2026-10-12 | Mirai Ki: piloto 13-10 y limpieza de fichas piloto; arreglos móvil/tablet | sin evaluar | Fuera de este repo, solo seguimiento |

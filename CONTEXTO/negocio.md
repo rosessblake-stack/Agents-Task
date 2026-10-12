@@ -27,7 +27,7 @@ Primera formación presencial de 3 días terminando (oct 2026); otra reservada p
 - Visuales de Blake primero, luego prácticas del alumno con corrección en directo; el día más duro va en medio.
 - Todas las formas nacen de tres figuras (cuadrado, triángulo, círculo). Clases de visagismo femenino, masculino y freestyle.
 - Cada cosa que enseña responde 4 preguntas: ¿cómo hacerlo bien?, ¿por qué se hace mal?, ¿cómo solucionar el error?, ¿cómo tener criterio propio para corregirlo y explicárselo al cliente?
-- **Día 1:** visagismo básico, nomenclatura, dolor técnico concreto. **Día 2:** más teoría + 1 visual + 1 práctico ampliado, citas y fichas de cliente. **Día 3:** 2 visuales + 2–3 prácticos + bloque de negocio (redes, cobrar, conseguir clientes, cerrar ventas, grabarse, objeciones y regateo). Día 3 incluye filmmaker.
+- **Día 1:** visagismo básico, nomenclatura, dolor técnico concreto. **Día 2:** más teoría + 1 visual + 1 práctico ampliado, citas y fichas de cliente. **Día 3:** 2 visuales + 2–3 prácticos + bloque de negocio (redes, cobrar, conseguir clientes, cerrar ventas, grabarse, objeciones y regateo). **El pack de 3 días incluye filmmaker los 3 días** (no solo el Día 3).
 - Diplomas por formato (1, 2, 3 días, grupal), cinco bloques fijos, numeración de edición por alumno; diseñador externo.
 - Formación de formadores: Typeform propio (metodología, direccionalidad, capacidad de contar su carrera); tres modalidades. **Pendiente de diseñar.**
 
