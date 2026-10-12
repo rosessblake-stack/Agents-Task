@@ -14,6 +14,10 @@ Bitácora de agentes. La mantiene el **Conductor** (la sesión principal): apunt
 ## Histórico (más reciente arriba)
 Formato: fecha · agente (modelo) · tarea · estado · **decisión** · **motivo** · pendiente de Blake.
 
+- **2026-10-12 · filtro (Sonnet) · I-013 feedback de dos alumnas (Miami 2×4 h y España 3 días) · terminado.**
+  Decisión: *adelante*, con preguntas previas bloqueantes. Plan T-003 (Educación/Producto + Setter en consulta → Marketing/Brand en Opus → decisión de Blake → Contenido solo si apruebas el testimonio → Revisor en Opus → Lecciones). Taller queda fuera.
+  Motivo (hechos): los dos casos son casi opuestos (Miami 8 h en grupo se quedó corto; España 3 días 1 a 1 superó expectativas) y no son comparables; el formato 2×4 h de Miami no está en `precios.md`; cualquier uso público exige permiso de las alumnas. Hipótesis: el formato corto es el punto débil; la solución es de estructura, nunca de descuento; el testimonio de España será más sólido tras unas semanas de práctica.
+  Pendiente de Blake: aprobar T-003 y responder 5 preguntas (`TABLERO.md`).
 - **2026-10-12 · filtro (Opus) · I-012 Mirai Ki y Legacy en la escalera · terminado.**
   Decisión: *adelante*, pero bloqueado hasta que Blake responda 6 preguntas. Plan T-002 (Educación/Producto + Setter en consulta → Marketing/Brand en Opus → decisión de Blake → Revisor → Lecciones).
   Motivo (hechos): 3–5 €/sesión de Mirai Ki queda por debajo del producto de entrada (~50–60 €) y choca con la escalera si va bajo la marca; ambas se solapan con asesorías; Legacy y la regla de no mostrar la fórmula. Hipótesis: pueden canibalizar asesorías.
