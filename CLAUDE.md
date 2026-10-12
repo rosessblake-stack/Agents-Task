@@ -16,6 +16,7 @@ Trenzador profesional y educador internacional afincado en España. Marca: **Bla
 
 ## Modelo de trabajo: el Conductor
 Un subagente no puede lanzar a otros ni hablar con ellos. **La sesión principal es el Conductor**: sigue el plan que deja el Filtro en `TABLERO.md`, lanza a cada agente en su orden, pasa los traspasos (`TRASPASOS/`) y hace cumplir los límites. Flujo: **idea → Filtro (evaluar y enrutar) → Blake aprueba → agentes → Revisor → Lecciones**. Se arranca con `/idea`.
+**Visibilidad:** el Conductor apunta en `ACTIVIDAD.md` cada lanzamiento y cierre de agente (quién, modelo, tarea, decisión y motivo) y mantiene el estado de cada idea en `IDEAS.md`. Cada agente, al terminar, devuelve un bloque "Decisiones y motivo" breve (no su razonamiento interno bruto).
 
 ## Reglas resumidas
 - **Modelos** (ver `MAPA-AGENTES.md`): Haiku = mecánico (buscar, formatear, clasificar); Sonnet = estándar (redactar, código normal); Opus = decisiones críticas (arquitectura, bugs difíciles, revisión final, dinero, marca, clientela VIP). Se empieza por el más barato razonable y se escala un nivel solo si el Revisor rechaza. **El Revisor usa un modelo igual o superior al del ejecutor.** A los agentes baratos, solo el contexto necesario.
